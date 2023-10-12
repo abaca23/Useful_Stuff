@@ -18,4 +18,5 @@ chmod 777 updating.sh
 To run after downloading:
 ```
 chmod 777 maybe.py
+python maybe.py
 ```
